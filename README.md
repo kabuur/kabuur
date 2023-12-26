@@ -2,7 +2,7 @@
 [![MasterHead](https://qph.cf2.poecdn.net/main-sdxl_9a51cae89a4a0478bbd9ecce8d6d988e5a29cf4b0d8a6555268edaf7e7ec4603.png?w=100,h=100)](https://kabuur.io)
 <h1 align="center">Hi 👋, I'm Ahmed Abdulkadir Mohamed</h1>
 <h3 align="center">A passionate fullstack developer from Somalia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif">
+<img align="right" alt="Coding" width="400" src="https://qph.cf2.poecdn.net/main-sdxl_9a51cae89a4a0478bbd9ecce8d6d988e5a29cf4b0d8a6555268edaf7e7ec4603.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabuur&label=Profile%20views&color=0e75b6&style=flat" alt="kabuur" /> </p>
 
 
