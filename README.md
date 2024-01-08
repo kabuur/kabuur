@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI and Frameworks**
 
-- 💬 Ask me about **react, python, javascript, flutter, nodejs,mongodb**
+- 💬 Ask me about **react, python, javascript, flutter, nodejs, express, mongodb**
 
 - 📫 How to reach me **axmedsahal933@gmail.com**
 
