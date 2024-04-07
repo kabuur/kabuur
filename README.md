@@ -1,5 +1,5 @@
 
-[![MasterHead](https://cam.ac.uk/sites/www.cam.ac.uk/files/styles/content-885x432/public/news/research/news/cyber-brain-7633488-1920-crop.jpg?itok=Nxydw-yh])(https://kabuur.io)
+[![MasterHead](https://cam.ac.uk/sites/www.cam.ac.uk/files/styles/content-885x432/public/news/research/news/cyber-brain-7633488-1920-crop.jpg?itok=Nxydw-yh)]
 <h1 align="center">Hi 👋,I'm Ahmed Abdulkadir Mohamed</h1>
 <h3 align="center">A passionate full Stack Developer from Somalia</h3>
 <img align="right" alt="Coding" height="350" width="400" src="https://qph.cf2.poecdn.net/main-sdxl_9a51cae89a4a0478bbd9ecce8d6d988e5a29cf4b0d8a6555268edaf7e7ec4603.png">
