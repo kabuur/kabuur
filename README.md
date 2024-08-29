@@ -3,10 +3,7 @@
 <h1 align="center">Hi 👋,I'm Ahmed Abdulkadir Mohamed</h1>
 <h3 align="center">A passionate AI Developer from Somalia</h3>
 <img align="right" alt="Coding" height="350" width="400" src="https://qph.cf2.poecdn.net/main-sdxl_9a51cae89a4a0478bbd9ecce8d6d988e5a29cf4b0d8a6555268edaf7e7ec4603.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabuur&label=Profile%20views&color=0e75b6&style=flat" alt="kabuur" /> </p>[Uploading ai.webp…]()
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabuur&label=Profile%20views&color=0e75b6&style=flat" alt="kabuur" /> </p>
 
 
 - 🌱 I’m currently learning **AI and Frameworks**
